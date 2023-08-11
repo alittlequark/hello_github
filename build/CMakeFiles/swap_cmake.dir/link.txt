@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/swap_cmake.dir/main.cpp.o CMakeFiles/swap_cmake.dir/src/swap.cpp.o -o swap_cmake 

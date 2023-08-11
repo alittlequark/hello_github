@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/wangxiao/Desktop/code/demo/build",
+  "command": "/usr/bin/clang++  -I/Users/wangxiao/Desktop/code/demo/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/swap_cmake.dir/main.cpp.o -c /Users/wangxiao/Desktop/code/demo/main.cpp",
+  "file": "/Users/wangxiao/Desktop/code/demo/main.cpp",
+  "output": "CMakeFiles/swap_cmake.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/wangxiao/Desktop/code/demo/build",
+  "command": "/usr/bin/clang++  -I/Users/wangxiao/Desktop/code/demo/include -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/swap_cmake.dir/src/swap.cpp.o -c /Users/wangxiao/Desktop/code/demo/src/swap.cpp",
+  "file": "/Users/wangxiao/Desktop/code/demo/src/swap.cpp",
+  "output": "CMakeFiles/swap_cmake.dir/src/swap.cpp.o"
+}
+]
